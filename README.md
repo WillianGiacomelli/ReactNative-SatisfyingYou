@@ -5,13 +5,13 @@
 ### Mobile
 
 <h1 align="center">
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/1.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/2.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/3.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/4.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/5.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/6.jpg" />
-  <img alt="tela"  width="400px" height="auto" src="./assets/images/7.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/1.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/2.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/3.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/4.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/5.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/6.jpg" />
+  <img alt="tela"  width="150px" height="auto" src="./assets/images/7.jpg" />
 </h1>
 
 ## 💻 Sobre o projeto
