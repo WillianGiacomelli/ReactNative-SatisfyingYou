@@ -4,9 +4,15 @@
 
 ### Mobile
 
-<video width="320" height="240" controls>
-  <source src="./assets//videos/demo.mp4" type="video/mp4">
-</video>
+<h1 align="center">
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/1.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/2.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/3.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/4.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/5.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/6.jpg" />
+  <img alt="tela"  width="400px" height="auto" src="./assets/images/7.jpg" />
+</h1>
 
 ## 💻 Sobre o projeto
 
