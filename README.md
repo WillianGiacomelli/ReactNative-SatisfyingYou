@@ -5,7 +5,7 @@
 ### Mobile
 
 <video width="320" height="240" controls>
-  <source src="./assets//videos/demo.mp4" type="video/mp4">
+  <source src="./assets/videos/demo.mp4" type="video/mp4">
 </video>
 
 ## 💻 Sobre o projeto
