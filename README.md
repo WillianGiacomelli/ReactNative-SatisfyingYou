@@ -4,11 +4,9 @@
 
 ### Mobile
 
-<h1 align="center">
-  <video width="320" height="240" controls>
-    <source src="./assets/videos/demo.mp4" type="video/mp4">
+<video width="320" height="240" controls>
+  <source src="./assets//videos/demo.mp4" type="video/mp4">
 </video>
-</h1>
 
 ## 💻 Sobre o projeto
 
@@ -32,32 +30,32 @@ Par start o metro, rode o seguinte comando na raiz do seu projeto JavaScript:
 # Instale as dependências
 $ npm install
 
-# using npm
+# usando npm
 $ npm start
 
-# OR using Yarn
+# usando Yarn
 $ yarn start
 ```
 
 ## Passo 2 - Executando
 
-### For Android
+### Para Android
 
 ```bash
-# using npm
+# usando npm
 $ npm run android
 
-# OR using Yarn
+# usando Yarn
 $ yarn android
 ```
 
 ### Para IOS
 
 ```bash
-# using npm
+# usando npm
 $ npm run ios
 
-# OR using Yarn
+# usando Yarn
 $ yarn ios
 ```
 
